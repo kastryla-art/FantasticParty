@@ -1,0 +1,20 @@
+body {
+    font-family: sans-serif;
+}
+
+
+header{
+    background: lightcyan;
+    border: 10px solid lightcyan;
+    border-radius: 15px;
+}  
+
+h1{
+    border: 5px;
+    border-radius: 10px;
+    text-align: center;
+    color: purple;
+}
+
+
+    
